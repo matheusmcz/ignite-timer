@@ -1,6 +1,6 @@
 # ignite-timer
 
-This aplication was build with
+This aplication was build with:
 - Vite
 - React;
 - TypeScript;
@@ -12,6 +12,6 @@ This aplication was build with
 The goal is to improve my skills with these technologies.
 
 To use this app:
-Git clone ```this repo url```
+```Git clone git@github.com:matheusmcz/ignite-timer.git```
 
-Yarn or npm i (to install all deps)
+```Yarn``` or ```npm i``` (to install all deps)
